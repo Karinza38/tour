@@ -1,4 +1,4 @@
-# Tour
+ # Tour
 
 A simple, minimalist touring and on-boarding library for javascript
 
